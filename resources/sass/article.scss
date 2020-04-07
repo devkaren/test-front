@@ -1,0 +1,19 @@
+.jumbotron {
+    background: $body-bg;
+}
+
+.container .row {
+    min-height: 450px;
+}
+
+#add-article-modal textarea {
+    min-height: 200px;
+    resize: none;
+}
+
+.card-body {
+    .card-text {
+        text-align: left;
+        height: 134px;
+    }
+}
